@@ -449,7 +449,7 @@ Conforme sugerido por @SteffenWinkler nos comentários, se houver mais de uma ta
 
 AND TABLE_SCHEMA = 'My_Database';
 
-6 - Exclua o banco de dados e o recrie (use as instruções no início desta aula).
+Exclua o banco de dados e o recrie (use as instruções no início desta aula).
 drop database sakila;
 
 MySQL Workbench/File/Open Sql script/sakila.sql executar CTRL + R
